@@ -1,2 +1,2 @@
-* Add title
+* ~~Add title~~
 * Update author names
